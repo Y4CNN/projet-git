@@ -1,7 +1,7 @@
 const test = "Hello world";
 
-function badFunction() {
-  console.log(undeclaredVariable);
+function goodFunction() {
+  console.log(test);
 }
 
-badFunction();
+goodFunction();
