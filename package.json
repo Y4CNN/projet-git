@@ -7,3 +7,9 @@
     "lint-staged": "^16.1.2"
   }
 }
+{
+  "scripts": {
+    "prepare": "husky install"
+  }
+}
+
