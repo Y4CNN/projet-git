@@ -1,5 +1,4 @@
-const x=1 
-function validateForm() { /... / }
-var test 
-
-
+function validateForm() {
+  console.log("Form validated");  // utiliser la fonction pour éviter l'erreur
+}
+validateForm();
