@@ -1,4 +1,4 @@
-const test = "Hello world";
+const test = "Hello world"
 
 function goodFunction() {
   console.log(test);
