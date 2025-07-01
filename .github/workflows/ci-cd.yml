@@ -18,5 +18,4 @@ jobs:
         run: npm install
 
       - name: Lancer ESLint
-        run: npm run lint
-
+        run: npx eslint .
