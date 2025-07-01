@@ -1,1 +1,1 @@
-<script>function validateForm() { /... / }</script>
+function validateForm() { /... / }
