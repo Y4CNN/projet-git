@@ -18,7 +18,7 @@ Exemples :
 
 ## Avant de pousser
 
-- Lancer le linter localement (`npm run lint`)
+- S'assurer de la propreté du code
 - S'assurer que les commits sont propres et signés
 
 ## Pull Request
